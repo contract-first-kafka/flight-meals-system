@@ -1,0 +1,4 @@
+profile: kafka
+resourceName: flight-meals-broker
+storage:
+  size: 2Gi
